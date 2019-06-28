@@ -1,4 +1,4 @@
-package cordova-plugin-twilio-video;
+package cordova_plugin_twilio_video;
 
 import org.apache.cordova.BuildHelper;
 import org.apache.cordova.CallbackContext;
